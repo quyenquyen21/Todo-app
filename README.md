@@ -1,6 +1,10 @@
 Todo List App
 The Todo List App is a basic web application that allows users to create, manage, and track their daily tasks. The app provides a user-friendly interface to add, mark as completed, and remove items from the to-do list.
 
+![Screenshot 2023-08-30 203404](https://github.com/quyenquyen21/Todo-app/assets/104281254/1a1cbb2e-f43b-43bc-b824-ae6d589e5f4e)
+
+
+
 Features
 
 Add new tasks to the to-do list.
